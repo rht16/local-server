@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "candy",
+      "age": "1089890",
+      "active": false
+    },
+    {
+      "id": 3,
+      "name": "Bob Taylor",
+      "age": 45,
+      "active": false
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "price": 10,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Hamburger",
+      "age": 7,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Ice Cream",
+      "age": 2.5,
+      "active": false
+    },
+    {
+      "id": 4,
+      "name": "Chocolate",
+      "price": 6,
+      "active": true
+    },
+    {
+      "name": "Eclairs",
+      "price": 55,
+      "active": false,
+      "id": 10
+    },
+    {
+      "id": 17,
+      "name": "kit kat",
+      "price": 10,
+      "active": false
+    },
+    {
+      "id": 15,
+      "name": "Sashta wala",
+      "price": 1,
+      "active": false
+    },
+    {
+      "id": 11,
+      "name": "free wala",
+      "price": 1,
+      "active": false
+    },
+    {
+      "id": 20,
+      "name": "candy",
+      "price": 55,
+      "active": false
+    }
+  ]
+}
